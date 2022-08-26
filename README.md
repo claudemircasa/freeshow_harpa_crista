@@ -1,4 +1,4 @@
-# freeshow_harpa_crista
+# Freeshow Harpa Cristã
 
 Canções da Harpa Cristã **(Hinário oficial das Assembléias de Deus)** em formato * *.txt* * para importação sem formatação e no formato * *.show* * pré-formatado para o [**Freeshow**](https://freeshow.app/).
 
